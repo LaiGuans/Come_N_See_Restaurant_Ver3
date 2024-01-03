@@ -1,0 +1,44 @@
+
+.wrap{
+    width: 390px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    color:rgb(0, 0, 0);
+}
+
+.content{
+    color:black;
+    text-align: left;
+}
+
+.word{
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.bigphoto{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer{
+    width: 800px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}

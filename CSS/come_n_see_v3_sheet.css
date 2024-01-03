@@ -1,0 +1,21 @@
+th{
+  background-color:#573700;
+  color:#ffffff;
+  width:25vw;
+  height:75px;
+}
+
+td{
+  background-color:#a59460;
+  width:25vw;
+  height:50px;
+  text-align:center;
+}
+
+tr{
+  border-bottom: 1px solid #dddddd;
+}
+
+tr:last-of-type{
+  border-bottom: 2px solid #573700;
+}
